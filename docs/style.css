@@ -1,0 +1,43 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:#F3F1F5;
+}
+h1{
+    text-align: center;
+   
+}
+table{
+    
+   background-color: #FEFBF3;
+   margin: auto;
+   /* margin-top: 15%; */
+    border-style: solid;
+    border-collapse: collapse;
+}
+td,th{
+    text-align: center;
+    padding: 5px;
+    width: 121px;
+    height:37px;
+    border-collapse: collapse;
+    border-style: solid;
+   
+}
+.DAA a{
+  color: chocolate;
+  text-decoration: chocolate;
+}
+
+.CAO a{
+   color: crimson;
+   text-decoration: crimson;
+}
+.web a{
+     color: chartreuse; 
+    text-decoration: chartreuse;
+
+}
+.DBMS a{
+    color: blueviolet;
+  text-decoration:blueviolet;
+}
